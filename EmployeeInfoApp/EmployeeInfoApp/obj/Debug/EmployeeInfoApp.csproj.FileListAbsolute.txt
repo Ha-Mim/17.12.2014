@@ -1,0 +1,9 @@
+C:\Users\LICT\Desktop\exam\EmployeeInfoApp\EmployeeInfoApp\bin\Debug\EmployeeInfoApp.exe.config
+C:\Users\LICT\Desktop\exam\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.csprojResolveAssemblyReference.cache
+C:\Users\LICT\Desktop\exam\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.EmployeeInfo.resources
+C:\Users\LICT\Desktop\exam\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.Properties.Resources.resources
+C:\Users\LICT\Desktop\exam\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.csproj.GenerateResource.Cache
+C:\Users\LICT\Desktop\exam\EmployeeInfoApp\EmployeeInfoApp\bin\Debug\EmployeeInfoApp.exe
+C:\Users\LICT\Desktop\exam\EmployeeInfoApp\EmployeeInfoApp\bin\Debug\EmployeeInfoApp.pdb
+C:\Users\LICT\Desktop\exam\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.exe
+C:\Users\LICT\Desktop\exam\EmployeeInfoApp\EmployeeInfoApp\obj\Debug\EmployeeInfoApp.pdb

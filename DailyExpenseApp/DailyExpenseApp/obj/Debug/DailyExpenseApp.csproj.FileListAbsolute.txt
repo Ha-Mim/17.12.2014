@@ -1,0 +1,10 @@
+C:\Users\LICT\Desktop\exam\DailyExpenseApp\DailyExpenseApp\bin\Debug\DailyExpenseApp.exe.config
+C:\Users\LICT\Desktop\exam\DailyExpenseApp\DailyExpenseApp\bin\Debug\DailyExpenseApp.exe
+C:\Users\LICT\Desktop\exam\DailyExpenseApp\DailyExpenseApp\bin\Debug\DailyExpenseApp.pdb
+C:\Users\LICT\Desktop\exam\DailyExpenseApp\DailyExpenseApp\bin\Debug\CSVLib.dll
+C:\Users\LICT\Desktop\exam\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.DailyExpense.resources
+C:\Users\LICT\Desktop\exam\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.Properties.Resources.resources
+C:\Users\LICT\Desktop\exam\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.csproj.GenerateResource.Cache
+C:\Users\LICT\Desktop\exam\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.exe
+C:\Users\LICT\Desktop\exam\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.pdb
+C:\Users\LICT\Desktop\exam\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.csprojResolveAssemblyReference.cache

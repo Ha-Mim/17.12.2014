@@ -1,0 +1,6 @@
+C:\Users\LICT\Desktop\exam\UserDefinedExpApp\UserDefinedExpApp\bin\Debug\UserDefinedExpApp.exe.config
+C:\Users\LICT\Desktop\exam\UserDefinedExpApp\UserDefinedExpApp\bin\Debug\UserDefinedExpApp.exe
+C:\Users\LICT\Desktop\exam\UserDefinedExpApp\UserDefinedExpApp\bin\Debug\UserDefinedExpApp.pdb
+C:\Users\LICT\Desktop\exam\UserDefinedExpApp\UserDefinedExpApp\obj\Debug\UserDefinedExpApp.csprojResolveAssemblyReference.cache
+C:\Users\LICT\Desktop\exam\UserDefinedExpApp\UserDefinedExpApp\obj\Debug\UserDefinedExpApp.exe
+C:\Users\LICT\Desktop\exam\UserDefinedExpApp\UserDefinedExpApp\obj\Debug\UserDefinedExpApp.pdb
